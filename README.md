@@ -13,13 +13,13 @@ On an average, the delivery charges are Rs. 100 per shipment. So if X ships 1,00
 Format: CSV
 
 # Technologies Used
-SQL
-PySpark
-Python
-PowerBI
-Jupyter Notebook
-Pandas
-GitHub
+● SQL
+● PySpark
+● Python
+● PowerBI
+● Jupyter Notebook
+● Pandas
+● GitHub
 
 # Input Data
 Left Hand Side (LHS) Data (X’s internal data spread across three reports)
