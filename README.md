@@ -1,5 +1,5 @@
 # Numpy & Pandas Project
-Big data explorer using PySpark and analytics
+Big data explorer using Numpy and Pandas and analytics
 # Business Scenario
 We are a data analyst and our client has a large ecommerce company in India (let’s call it X). X gets a thousand orders via their website on a daily basis and they have to deliver them as fast as they can. For delivering the goods ordered by the customers, X has tied up with multiple courier companies in India as delivery partners who charge them some amount per delivery.
 
