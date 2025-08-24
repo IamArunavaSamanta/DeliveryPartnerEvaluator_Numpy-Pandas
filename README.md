@@ -22,7 +22,7 @@ Format: CSV
 ● GitHub
 
 # Input Data
-1. X’s internal data spread across three reports: 
+# 1. X’s internal data spread across three reports: 
 ●	Website order report- which will list Order IDs and various products (SKUs) part of each order. Order ID is common identifier between X’s order report and courier company invoice
 ●	SKU master with gross weight of each product-This should be used to calculate total weight of each order and during analysis compare against one reported by courier company in their CSV invoice per Order ID. The courier company calculates weight in slabs of 0.5 KG multiples, so first you have to figure out the total weight of the shipment and then figure out applicable weight slabs. For example:
 -	If the total weight is 400 gram then weight slab should be 0.5
@@ -32,7 +32,7 @@ Format: CSV
 
 ●	Warehouse pincode to All India pincode mapping -(this should be used to figure out delivery zone (a/b/c/d/e) and during analysis compare against one reported by courier company in their CSV invoice per Order ID.
 
-2. Courier company invoice in CSV file:
+# 2. Courier company invoice in CSV file:
 ● Invoice Details: Includes AWB Number (courier’s internal ID), Order ID (from Company X), shipment weight, warehouse pickup pincode, customer delivery pincode, delivery zone, shipment charges, and shipment type.
 
 ● Courier Rate Card: Contains rates based on weight slabs and pincodes.If the invoice mentions “Forward charges”, only forward charges (“fwd”) apply.
