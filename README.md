@@ -14,11 +14,11 @@ Format: CSV
 
 # Technologies Used
 ● SQL
-● PySpark
 ● Python
+● Numpy
+● Pandas
 ● PowerBI
 ● Jupyter Notebook
-● Pandas
 ● GitHub
 
 # Input Data
